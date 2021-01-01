@@ -1,0 +1,15 @@
+2 bit branch history, how storing is done(module 6_2 , page 33)
+only 2 bits
+TN - b
+NT - c
+NN - d
+
+write allocate, No write allocate(module 6_2 , page 42)
+
+page 40
+
+page 49
+
+Practice Quiz DM cache(page 4)
+diff between 8 word block & 8 block 2 W.S.A
+-addrress config of 8 block 2 way set associative
